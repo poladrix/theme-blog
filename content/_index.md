@@ -46,7 +46,6 @@ sections:
       subtitle: My subtitle
       text: dede
       dede
-
   - block: collection
     content:
       filters:
