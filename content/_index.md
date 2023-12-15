@@ -44,7 +44,8 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text:     <div class="site-web">
+      text: |-
+      <div class="site-web">
       <div class="overlap-group-wrapper">
         <div class="overlap-group"><p class="text-wrapper">Le Coaching c’est quoi ?</p></div>
       </div>
