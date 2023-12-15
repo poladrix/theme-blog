@@ -44,8 +44,7 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: dede
-      dede
+      text: dede dede
   - block: collection
     content:
       filters:
