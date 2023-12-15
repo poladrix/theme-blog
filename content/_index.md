@@ -44,7 +44,11 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text:     <div class="site-web">
+      <div class="overlap-group-wrapper">
+        <div class="overlap-group"><p class="text-wrapper">Le Coaching c’est quoi ?</p></div>
+      </div>
+    </div>
   - block: collection
     content:
       filters:
