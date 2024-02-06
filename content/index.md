@@ -1,10 +1,13 @@
 ---
-title: "My page"
+title: My page
 type: landing
 
 sections:
   - block: markdown
-    content: |
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: |
       <style>
         .rounded-image {
           display: block;
@@ -19,40 +22,6 @@ sections:
         <h2>Coaching Professionnel</h2>
         <p>Boostez votre carrière avec un coaching professionnel</p>
         <a href="/coaching-professionnel">En savoir plus</a>
-      </div>
-  - block: markdown
-    content: |
-      <style>
-        .rounded-image {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-          width: 50%;
-          border-radius: 50%;
-        }
-      </style>
-      <div style="text-align: right;">
-        <img src="image_coaching_equipe.jpg" alt="Coaching d'Équipe" class="rounded-image">
-        <h2>Coaching d'Équipe</h2>
-        <p>Favorisez la collaboration et la performance de votre équipe</p>
-        <a href="/coaching-equipe">En savoir plus</a>
-      </div>
-  - block: markdown
-    content: |
-      <style>
-        .rounded-image {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-          width: 50%;
-          border-radius: 50%;
-        }
-      </style>
-      <div style="text-align: left;">
-        <img src="image_plongee.jpg" alt="Plongée" class="rounded-image">
-        <h2>Plongée</h2>
-        <p>Explorez les profondeurs et découvrez un monde sous-marin fascinant</p>
-        <a href="/plongee">En savoir plus</a>
       </div>
 ---
 
