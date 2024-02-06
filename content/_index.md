@@ -1,13 +1,37 @@
 ---
-title: 'Accueil'
-date: 2023-10-24
-type: landing
-sections:
-  - block: biography
-    content:
-      # The user's folder name in content/authors/
-      username: admin
-    design:
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+title: "Accueil"
+date: 2024-02-06T12:00:00Z
+description: "Bienvenue sur mon site de coaching professionnel et personnel."
 ---
+
+# Bienvenue sur mon site de Coaching
+
+## À propos de moi
+
+Je suis Frédéric Stein, coach professionnel, spécialisé dans le coaching d'équipe et scolaire. Ancien ouvrier polyvalent dans l'industrie agroalimentaire, je suis également moniteur de plongée.
+
+## Services de Coaching
+
+### Coaching Professionnel
+
+- **Transition de Manager :** Accompagnement lors des périodes de changement de manager.
+- **Coaching d'Équipe en Entreprise :** Renforcez la cohésion et la performance de votre équipe.
+
+### Coaching Personnel
+
+- **Coaching Individuel :** Atteignez vos objectifs personnels.
+- **Coaching Scolaire :** Soutien au développement scolaire de vos enfants.
+
+## Création d'un Groupe de Parole pour Hommes
+
+Participez à notre groupe de parole pour hommes, un espace sûr pour partager, écouter et grandir ensemble.
+
+## Contact
+
+N'hésitez pas à me contacter pour discuter de vos besoins en coaching ou pour rejoindre le groupe de parole. Je suis là pour vous accompagner dans votre parcours.
+
+---
+
+**Prochain Événement :** Groupe de Parole pour Hommes - [Inscrivez-vous ici](lien-vers-page-inscription)
+
+*Suivez-nous sur les réseaux sociaux : [Facebook](lien-vers-page-facebook) | [LinkedIn](lien-vers-page-linkedin)*

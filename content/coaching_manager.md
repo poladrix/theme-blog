@@ -1,8 +1,6 @@
 ---
 title: "Coaching de Transition de Manager"
 date: 2024-02-07
-tags:
-  - coachingpro
 blox:
   - name: "coaching_manager"
     title: "Accompagnement de Transition de Manager"
