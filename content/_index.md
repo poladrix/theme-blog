@@ -11,7 +11,3 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
 ---
-
-## Bienvenue sur mon site
-
-Ajoutez ici du contenu pour la page d'accueil.
