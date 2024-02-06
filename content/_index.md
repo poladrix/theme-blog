@@ -7,7 +7,10 @@ sections:
     content: 
       title: My title
       subtitle: My subtitle
-      text: deede
+      text: |
+     deeed
+     dededde
+     ded
 ---
 
 
