@@ -7,13 +7,7 @@ sections:
     content: 
       title: My title
       subtitle: My subtitle
-      text: |
-      <div style="text-align: center;">
-        <img src="image_coaching_professionnel.jpg" alt="Coaching Professionnel" style="width: 200px; height: 200px; border-radius: 50%;">
-        <h2>Coaching Professionnel</h2>
-        <p>Boostez votre carrière avec un coaching professionnel</p>
-        <a href="/coaching-professionnel">En savoir plus</a>
-      </div>
+      text: deede
 ---
 
 
