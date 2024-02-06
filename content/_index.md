@@ -21,6 +21,7 @@ Je suis Frédéric Stein, coach professionnel, spécialisé dans le coaching d'�
 
 - **Coaching Individuel :** Atteignez vos objectifs personnels.
 - **Coaching Scolaire :** Soutien au développement scolaire de vos enfants.
+{{< coaching_scolaire >}}
 
 ## Création d'un Groupe de Parole pour Hommes
 
