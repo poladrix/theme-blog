@@ -8,15 +8,6 @@ sections:
       title: My title
       subtitle: My subtitle
       text: |
-      <style>
-        .rounded-image {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-          width: 50%;
-          border-radius: 50%;
-        }
-      </style>
       <div style="text-align: left;">
         <img src="image_coaching_professionnel.jpg" alt="Coaching Professionnel" class="rounded-image">
         <h2>Coaching Professionnel</h2>
