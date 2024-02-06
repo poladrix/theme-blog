@@ -4,28 +4,15 @@ type: landing
 
 sections:
   - block: markdown
-    content: |
+    content: 
+      title: My title
+      subtitle: My subtitle
+      text: |
       <div style="text-align: center;">
         <img src="image_coaching_professionnel.jpg" alt="Coaching Professionnel" style="width: 200px; height: 200px; border-radius: 50%;">
         <h2>Coaching Professionnel</h2>
         <p>Boostez votre carrière avec un coaching professionnel</p>
         <a href="/coaching-professionnel">En savoir plus</a>
-      </div>
-  - block: markdown
-    content: |
-      <div style="text-align: center;">
-        <img src="image_coaching_equipe.jpg" alt="Coaching d'Équipe" style="width: 200px; height: 200px; border-radius: 50%;">
-        <h2>Coaching d'Équipe</h2>
-        <p>Favorisez la collaboration et la performance de votre équipe</p>
-        <a href="/coaching-equipe">En savoir plus</a>
-      </div>
-  - block: markdown
-    content: |
-      <div style="text-align: center;">
-        <img src="image_plongee.jpg" alt="Plongée" style="width: 200px; height: 200px; border-radius: 50%;">
-        <h2>Plongée</h2>
-        <p>Explorez les profondeurs et découvrez un monde sous-marin fascinant</p>
-        <a href="/plongee">En savoir plus</a>
       </div>
 ---
 
