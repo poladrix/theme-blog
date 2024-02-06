@@ -20,7 +20,6 @@ sections:
         <p>Boostez votre carrière avec un coaching professionnel</p>
         <a href="/coaching-professionnel">En savoir plus</a>
       </div>
-
   - block: markdown
     content: |
       <style>
@@ -38,7 +37,6 @@ sections:
         <p>Favorisez la collaboration et la performance de votre équipe</p>
         <a href="/coaching-equipe">En savoir plus</a>
       </div>
-
   - block: markdown
     content: |
       <style>
