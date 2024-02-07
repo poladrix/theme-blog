@@ -7,8 +7,7 @@ sections:
     content: 
       title: My title
       subtitle: My subtitle
-      text: 
----
+      text: |
 
 
 # Bienvenue sur mon site de Coaching
@@ -43,3 +42,5 @@ N'hésitez pas à me contacter pour discuter de vos besoins en coaching ou pour 
 **Prochain Événement :** Groupe de Parole pour Hommes - [Inscrivez-vous ici](lien-vers-page-inscription)
 
 *Suivez-nous sur les réseaux sociaux : [Facebook](lien-vers-page-facebook) | [LinkedIn](lien-vers-page-linkedin)*
+
+---
