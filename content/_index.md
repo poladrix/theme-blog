@@ -8,6 +8,7 @@ sections:
       title: My title
       subtitle: My subtitle
       text: | # Bienvenue sur mon site de Coaching
+---
 
 ## À propos de moi
 
@@ -33,8 +34,6 @@ Participez à notre groupe de parole pour hommes, un espace sûr pour partager, 
 ## Contact
 
 N'hésitez pas à me contacter pour discuter de vos besoins en coaching ou pour rejoindre le groupe de parole. Je suis là pour vous accompagner dans votre parcours.
-
----
 
 **Prochain Événement :** Groupe de Parole pour Hommes - [Inscrivez-vous ici](lien-vers-page-inscription)
 
