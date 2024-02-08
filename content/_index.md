@@ -8,6 +8,7 @@ sections:
       title: My title
       subtitle: My subtitle
       text: Bienvenue sur mon site de Coaching
+      dede
 ---
 
 ## À propos de moi
